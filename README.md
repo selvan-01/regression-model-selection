@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="thumbnail38.png" width="800">
+</p>
+
+---
+
 # 📊 Regression Model Selection Web App
 
 An advanced Machine Learning web application built using **Streamlit** that compares multiple regression models and identifies the best-performing model based on R² score.
@@ -103,6 +109,11 @@ R² Score (Coefficient of Determination) is used to evaluate model performance.
 * Deployment on cloud platforms
 
 ---
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/regression-model-selection.git)
 
 ## 👨‍💻 Author
 
